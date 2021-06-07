@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hola bro
-=======
-adios mi bro
->>>>>>> d7b1d82df8fc0aaf6af2698a222e73b89b240649
+
