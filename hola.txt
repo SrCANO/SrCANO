@@ -6,5 +6,9 @@ git log --oneline
 git remote add origin https://github.com/SrCANO/SrCANO.git
 git branch -M master
 git push -u origin master
+<<<<<<< HEAD
 git reset --hard codigo
 git checkout -b 
+=======
+git clone https://github.com/SrCANO/SrCANO.git
+>>>>>>> df02db02972fd6705664bed9a036072099760089
