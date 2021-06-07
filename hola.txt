@@ -1,1 +1,8 @@
-
+git init
+git add .
+git commit -m
+git status -s
+git log --oneline
+git remote add origin https://github.com/SrCANO/SrCANO.git
+git branch -M master
+git push -u origin master
